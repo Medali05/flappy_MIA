@@ -1,0 +1,35 @@
+
+    body {
+      margin: 0;
+      background: rgb(255, 255, 113);
+      overflow: hidden;
+      font-family: sans-serif;
+     
+      
+    }
+
+    canvas {
+      display: block;
+      margin: auto;
+      background-color: rgb(255, 255, 113);
+    }
+ .h3{
+  border: 2px solid black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+  position: absolute;
+  right: 25%;
+ }
+    #jouer {
+   
+     position: absolute;
+     height: 50px;
+     bottom: 25%;
+     right: 45%;
+    }
+ 
+
+button  img {
+  width: 150px;
+  height: 76px;
+}
